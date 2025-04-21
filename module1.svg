@@ -1,0 +1,36 @@
+<svg width="130" height="114" viewBox="0 0 130 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="module1">
+<g id="module1_2">
+<g id="line3_group">
+<g id="checkbox">
+<g id="done3">
+<line id="Line 9" y1="-0.5" x2="4.43265" y2="-0.5" transform="matrix(0.802112 0.597173 -0.464612 0.885514 118 87.353)" stroke="white"/>
+<line id="Line 10" y1="-0.5" x2="10.0375" y2="-0.5" transform="matrix(-0.442773 0.896634 -0.81896 -0.573851 126 81)" stroke="white"/>
+</g>
+<rect id="checkbox3" x="115.5" y="79.5" width="14" height="14" stroke="#F9FAFB"/>
+</g>
+<line id="line3" y1="87" x2="95.8525" y2="87" stroke="#F9FAFB" stroke-width="4"/>
+</g>
+<g id="line2_group">
+<g id="checkbox_2">
+<g id="done2">
+<line id="Line 9_2" y1="-0.5" x2="4.43265" y2="-0.5" transform="matrix(0.802112 0.597173 -0.464612 0.885514 118 57.353)" stroke="white"/>
+<line id="Line 10_2" y1="-0.5" x2="10.0375" y2="-0.5" transform="matrix(-0.442773 0.896634 -0.81896 -0.573851 126 51)" stroke="white"/>
+</g>
+<rect id="checkbox2" x="115.5" y="49.5" width="14" height="14" stroke="#F9FAFB"/>
+</g>
+<line id="line2" y1="57" x2="95.8525" y2="57" stroke="#F9FAFB" stroke-width="4"/>
+</g>
+<g id="line1_group">
+<g id="checkbox_3">
+<g id="done1">
+<line id="Line 9_3" y1="-0.5" x2="4.43265" y2="-0.5" transform="matrix(0.802112 0.597173 -0.464612 0.885514 118 27.353)" stroke="white"/>
+<line id="Line 10_3" y1="-0.5" x2="10.0375" y2="-0.5" transform="matrix(-0.442773 0.896634 -0.81896 -0.573851 126 21)" stroke="white"/>
+</g>
+<rect id="checkbox1" x="115.5" y="19.5" width="14" height="14" stroke="#F9FAFB"/>
+</g>
+<line id="Line 11" y1="27" x2="95.8525" y2="27" stroke="#F9FAFB" stroke-width="4"/>
+</g>
+</g>
+</g>
+</svg>
